@@ -1,43 +1,43 @@
 {
     "apiName" : " pkmn " ,
-    "origen" : " Queretaro " ,
-    "creado" : 2022 ,
-    "cifras" :[
+    "origin" : " Queretaro " ,
+    "created" : 2022 ,
+    "figures" :[
         {
-            "identificación" : 1 ,
+            "id" : 1 ,
             "nombre" : " Eevee " ,
             "tipo" : " Normal " ,
             "altura" : 0.3 ,
             "peso" : 6.5 ,
             "descripcion" : " Su inestabilidad genética le permite transformarse al ser expuesto a las piedras elementales " ,
-            "figura" : " https://drive.google.com/ "
+            "figura" : " https://drive.google.com/file/d/1xuQk6s8J3Wfw7_bewe06d1gfhujWb3dD/view?usp=sharing "
         },
         {
-            "identificación" : 2 ,
+            "id" : 2 ,
             "nombre" : " Bulbasaur " ,
             "tipo" : " planta, veneno " ,
             "altura" : 0.7 ,
             "peso" : 6.9 ,
             "descripcion" : " Es el primero en el índice de monstruos de la franquicia, llamado Pokédex.  " ,
-            "figura" : "  "    
+            "figura" : " https://drive.google.com/file/d/1FFq8-HimIiwuGCkwV2T-PNk9JszAQe29/view?usp=sharing "    
         },
         {
-            "identificación" : 3 ,
+            "id" : 3 ,
             "nombre" : " Pikachu " ,
             "tipo" : " electrico " ,
             "altura" : 0.4 ,
             "peso" : 6.0 ,
             "descripcion" : "  tiene la habilidad de liberar descargas eléctricas de intensidad variable, gracias a sus polos eléctricos residentes en sus mejillas. " ,
-            "figura" : " "        
+            "figura" : " https://drive.google.com/file/d/1iFrzeTeSZJHjmIoycdFP30vRJbYhMl9k/view?usp=sharing "        
         },
         {
-            "identificación" : 4 ,
+            "id" : 4 ,
             "nombre" : " Guadalupo " ,
-            "tipo" : " Raro " ,
+            "tipo" : " Especial " ,
             "altura" : " Desconocida " ,
             "peso" : " Desconocido " ,
             "descripcion" : " ¡Guadalupo, MILAGRO! " ,
-            "figura" : "  "  
+            "figura" : " https://drive.google.com/file/d/1UPayXY3xgLysyj1zHsNSXssTxoHoZQFV/view?usp=sharing "  
         },
         {
             "id" : 5 ,
@@ -46,7 +46,7 @@
             "altura" : 0.4 ,
             "peso" : 4.2 ,
             "descripcion" : "  tiene la habilidad de conversar en lenguaje humano, un rasgo que solo otros pocos Pokémon poseen " ,
-            "figura" : "  "      
+            "figura" : " https://drive.google.com/file/d/1cA-cQCax-9Pl0NxTjHeXE3bx7Ej1zEBW/view?usp=sharing "      
         }
     ]
 }
