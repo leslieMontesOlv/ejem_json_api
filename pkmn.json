@@ -1,0 +1,52 @@
+{
+    "apiName" : " pkmn " ,
+    "origen" : " Queretaro " ,
+    "creado" : 2022 ,
+    "cifras" :[
+        {
+            "identificación" : 1 ,
+            "nombre" : " Eevee " ,
+            "tipo" : " Normal " ,
+            "altura" : 0.3 ,
+            "peso" : 6.5 ,
+            "descripcion" : " Su inestabilidad genética le permite transformarse al ser expuesto a las piedras elementales " ,
+            "figura" : " https://drive.google.com/ "
+        },
+        {
+            "identificación" : 2 ,
+            "nombre" : " Bulbasaur " ,
+            "tipo" : " planta, veneno " ,
+            "altura" : 0.7 ,
+            "peso" : 6.9 ,
+            "descripcion" : " Es el primero en el índice de monstruos de la franquicia, llamado Pokédex.  " ,
+            "figura" : "  "    
+        },
+        {
+            "identificación" : 3 ,
+            "nombre" : " Pikachu " ,
+            "tipo" : " electrico " ,
+            "altura" : 0.4 ,
+            "peso" : 6.0 ,
+            "descripcion" : "  tiene la habilidad de liberar descargas eléctricas de intensidad variable, gracias a sus polos eléctricos residentes en sus mejillas. " ,
+            "figura" : " "        
+        },
+        {
+            "identificación" : 4 ,
+            "nombre" : " Guadalupo " ,
+            "tipo" : " Raro " ,
+            "altura" : " Desconocida " ,
+            "peso" : " Desconocido " ,
+            "descripcion" : " ¡Guadalupo, MILAGRO! " ,
+            "figura" : "  "  
+        },
+        {
+            "id" : 5 ,
+            "nombre" : " Meowth " ,
+            "tipo" : " Normal " ,
+            "altura" : 0.4 ,
+            "peso" : 4.2 ,
+            "descripcion" : "  tiene la habilidad de conversar en lenguaje humano, un rasgo que solo otros pocos Pokémon poseen " ,
+            "figura" : "  "      
+        }
+    ]
+}
