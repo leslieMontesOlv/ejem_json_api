@@ -5,48 +5,48 @@
     "figures" :[
         {
             "id" : 1 ,
-            "nombre" : " Eevee " ,
-            "tipo" : " Normal " ,
-            "altura" : 0.3 ,
-            "peso" : 6.5 ,
-            "descripcion" : " Su inestabilidad genética le permite transformarse al ser expuesto a las piedras elementales " ,
-            "figura" : " https://drive.google.com/file/d/1xuQk6s8J3Wfw7_bewe06d1gfhujWb3dD/view?usp=sharing "
+            "name" : " Eevee " ,
+            "type" : " Normal " ,
+            "height" : 0.3 ,
+            "weigth" : 6.5 ,
+            "des" : " Su inestabilidad genética le permite transformarse al ser expuesto a las piedras elementales " ,
+            "figure" : " https://drive.google.com/file/d/1xuQk6s8J3Wfw7_bewe06d1gfhujWb3dD/view?usp=sharing "
         },
         {
             "id" : 2 ,
-            "nombre" : " Bulbasaur " ,
-            "tipo" : " planta, veneno " ,
-            "altura" : 0.7 ,
-            "peso" : 6.9 ,
-            "descripcion" : " Es el primero en el índice de monstruos de la franquicia, llamado Pokédex.  " ,
-            "figura" : " https://drive.google.com/file/d/1FFq8-HimIiwuGCkwV2T-PNk9JszAQe29/view?usp=sharing "    
+            "name" : " Bulbasaur " ,
+            "type" : " planta, veneno " ,
+            "height" : 0.7 ,
+            "weigth" : 6.9 ,
+            "des" : " Es el primero en el índice de monstruos de la franquicia, llamado Pokédex.  " ,
+            "figure" : " https://drive.google.com/file/d/1FFq8-HimIiwuGCkwV2T-PNk9JszAQe29/view?usp=sharing "    
         },
         {
             "id" : 3 ,
-            "nombre" : " Pikachu " ,
-            "tipo" : " electrico " ,
-            "altura" : 0.4 ,
-            "peso" : 6.0 ,
-            "descripcion" : "  tiene la habilidad de liberar descargas eléctricas de intensidad variable, gracias a sus polos eléctricos residentes en sus mejillas. " ,
-            "figura" : " https://drive.google.com/file/d/1iFrzeTeSZJHjmIoycdFP30vRJbYhMl9k/view?usp=sharing "        
+            "name" : " Pikachu " ,
+            "type" : " electrico " ,
+            "height" : 0.4 ,
+            "weigth" : 6.0 ,
+            "des" : "  tiene la habilidad de liberar descargas eléctricas de intensidad variable, gracias a sus polos eléctricos residentes en sus mejillas. " ,
+            "figure" : " https://drive.google.com/file/d/1iFrzeTeSZJHjmIoycdFP30vRJbYhMl9k/view?usp=sharing "        
         },
         {
             "id" : 4 ,
-            "nombre" : " Guadalupo " ,
-            "tipo" : " Especial " ,
-            "altura" : " Desconocida " ,
-            "peso" : " Desconocido " ,
-            "descripcion" : " ¡Guadalupo, MILAGRO! " ,
-            "figura" : " https://drive.google.com/file/d/1UPayXY3xgLysyj1zHsNSXssTxoHoZQFV/view?usp=sharing "  
+            "name" : " Guadalupo " ,
+            "type" : " Especial " ,
+            "height" : " Desconocida " ,
+            "weigth" : " Desconocido " ,
+            "des" : " ¡Guadalupo, MILAGRO! " ,
+            "figure" : " https://drive.google.com/file/d/1UPayXY3xgLysyj1zHsNSXssTxoHoZQFV/view?usp=sharing "  
         },
         {
             "id" : 5 ,
-            "nombre" : " Meowth " ,
-            "tipo" : " Normal " ,
-            "altura" : 0.4 ,
-            "peso" : 4.2 ,
-            "descripcion" : "  tiene la habilidad de conversar en lenguaje humano, un rasgo que solo otros pocos Pokémon poseen " ,
-            "figura" : " https://drive.google.com/file/d/1cA-cQCax-9Pl0NxTjHeXE3bx7Ej1zEBW/view?usp=sharing "      
+            "name" : " Meowth " ,
+            "type" : " Normal " ,
+            "height" : 0.4 ,
+            "weigth" : 4.2 ,
+            "des" : "  tiene la habilidad de conversar en lenguaje humano, un rasgo que solo otros pocos Pokémon poseen " ,
+            "figure" : " https://drive.google.com/file/d/1cA-cQCax-9Pl0NxTjHeXE3bx7Ej1zEBW/view?usp=sharing "      
         }
     ]
 }
