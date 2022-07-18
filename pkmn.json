@@ -17,7 +17,7 @@
             "name" : " Bulbasaur " ,
             "type" : " planta, veneno " ,
             "height" : 0.7 ,
-            "weigth" : 6.9 ,
+            "weight" : 6.9 ,
             "des" : " Es el primero en el índice de monstruos de la franquicia, llamado Pokédex.  " ,
             "figure" : " https://drive.google.com/uc?export=view&id=1FFq8-HimIiwuGCkwV2T-PNk9JszAQe29 "    
         },
@@ -26,7 +26,7 @@
             "name" : " Pikachu " ,
             "type" : " electrico " ,
             "height" : 0.4 ,
-            "weigth" : 6.0 ,
+            "weight" : 6.0 ,
             "des" : "  tiene la habilidad de liberar descargas eléctricas de intensidad variable, gracias a sus polos eléctricos residentes en sus mejillas. " ,
             "figure" : " https://drive.google.com/uc?export=view&id=1iFrzeTeSZJHjmIoycdFP30vRJbYhMl9k "        
         },
@@ -35,7 +35,7 @@
             "name" : " Guadalupo " ,
             "type" : " Especial " ,
             "height" : " Desconocida " ,
-            "weigth" : " Desconocido " ,
+            "weight" : " Desconocido " ,
             "des" : " ¡Guadalupo, MILAGRO! " ,
             "figure" : " https://drive.google.com/uc?export=view&id=1UPayXY3xgLysyj1zHsNSXssTxoHoZQFV "  
         },
@@ -44,7 +44,7 @@
             "name" : " Meowth " ,
             "type" : " Normal " ,
             "height" : 0.4 ,
-            "weigth" : 4.2 ,
+            "weight" : 4.2 ,
             "des" : "  tiene la habilidad de conversar en lenguaje humano, un rasgo que solo otros pocos Pokémon poseen " ,
             "figure" : " https://drive.google.com/uc?export=view&id=1cA-cQCax-9Pl0NxTjHeXE3bx7Ej1zEBW "      
         }
