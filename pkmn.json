@@ -8,7 +8,7 @@
             "name" : " Eevee " ,
             "type" : " Normal " ,
             "height" : 0.3 ,
-            "weigth" : 6.5 ,
+            "weight" : 6.5 ,
             "des" : " Su inestabilidad genética le permite transformarse al ser expuesto a las piedras elementales " ,
             "figure" : " https://drive.google.com/uc?export=view&id=1xuQk6s8J3Wfw7_bewe06d1gfhujWb3dD "
         },
@@ -27,15 +27,15 @@
             "type" : " electrico " ,
             "height" : 0.4 ,
             "weight" : 6.0 ,
-            "des" : "  tiene la habilidad de liberar descargas eléctricas de intensidad variable, gracias a sus polos eléctricos residentes en sus mejillas. " ,
+            "des" : "  Puede liberar descargas eléctricas de intensidad variable, gracias a sus polos eléctricos residentes en sus mejillas. " ,
             "figure" : " https://drive.google.com/uc?export=view&id=1iFrzeTeSZJHjmIoycdFP30vRJbYhMl9k "        
         },
         {
             "id" : 4 ,
             "name" : " Guadalupo " ,
             "type" : " Especial " ,
-            "height" : " Desconocida " ,
-            "weight" : " Desconocido " ,
+            "height" : " 7.2 " ,
+            "weight" : " 5.9 " ,
             "des" : " ¡Guadalupo, MILAGRO! " ,
             "figure" : " https://drive.google.com/uc?export=view&id=1UPayXY3xgLysyj1zHsNSXssTxoHoZQFV "  
         },
