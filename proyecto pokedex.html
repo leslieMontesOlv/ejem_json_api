@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Pokedex</title>
+    <link rel="stylesheet" href="poke.css">
+</head>
+<body>
+    <header>
+      <img id="logo" src="imagenes/logo.jpg" alt="logo">
+      <h1>Mi Pokedex</h1>
+    </header>
+    <nav>
+        <a href="index.html">Inicio</a>
+        <a href="#">Acerca</a>
+    </nav>
+    <hr>
+    <main>
+        <div id="pokedex">
+            <div id="left">
+                <div class="display">
+                    <img id="figure" src="imagenes/eevee.jpg">
+                </div>
+                <div id="dpad" onclick="buscar()">
+                    <div id="dpad-top"></div>
+                    <div id="dpad-horizontal"></div>
+                    <div id="dpad-bottom"></div>
+                </div>
+                <div id="btn-circle"></div>
+                </div>
+            </div>
+            <div id="right">
+                <div class="display">
+                    <ul>
+                        <li>
+                            <p id="name"><b>Nombre:</b>Eevee</p>
+                        </li>
+                        <li>
+                            <p id="type"><b>Tipo:</b>Normal</p>
+                        </li>
+                        <li>
+                            <p id="height"><b>Altura:</b>0.3 metros</p>
+                        </li>
+                        <li>
+                            <p id="weight"><b>Peso:</b>6.5 kilogramos</p>
+                        </li>
+                        <li>
+                            <p id="des"><b>Descripcion:</b>Su inestabilidad genética le permite transformarse al ser expuesto a las piedras elementales.</p>
+                        </li>
+                    </ul>
+                </div>
+                <div id="pad">
+                    <div class="btn"></div>
+                    <div class="btn"></div>
+                    <div class="btn"></div>
+                    <div class="btn"></div>
+                    <div class="btn"></div>
+                    <div class="btn"></div>
+                    <div class="btn"></div>
+                    <div class="btn"></div>
+                </div>
+            </div>
+        </div>
+    </main>
+    <script type="text/javascript" src="api_poke.js"></script>
+    <script>
+        buscar()
+    </script>
+</body>
+</html>
