@@ -54,7 +54,7 @@
             "type" : " Fuego " ,
             "height" : 0.6 ,
             "weight" : 8.5 ,
-            "des" : "   " ,
+            "des" : " Sus características de fuego son resaltadas por su color de piel anaranjado y su cola con la punta envuelta en llamas. " ,
             "figure" : " https://drive.google.com/uc?export=view&id=1VZMVRWByZq_ZdFN_mciTsiQxTI7rSXkj "      
         },
         {
@@ -63,7 +63,7 @@
             "type" : " Agua " ,
             "height" : 0.5 ,
             "weight" : 9.0 ,
-            "des" : "   " ,
+            "des" : " Squirtle es una de las especies más difíciles de encontrar. Habita tanto aguas dulces como marinas, preferiblemente zonas bastante profundas. " ,
             "figure" : " https://drive.google.com/uc?export=view&id=1F0Z6tQ4_w7i1PxuCsJI2BhtAzASUP2Sy "      
         }
     ]
